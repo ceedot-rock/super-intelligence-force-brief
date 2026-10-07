@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security issue
+    url: https://github.com/ceedot-rock/super-intelligence-force-brief/blob/main/SECURITY.md
+    about: Do not open a public issue for security problems — see the security policy.
+  - name: Slid Phi Labs
+    url: https://slidphilabs.com
+    about: The lab behind this brief.
